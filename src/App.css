@@ -1,0 +1,11 @@
+.button {
+  display: flex;
+  justify-content: center;
+  padding-top: 520px;
+  padding-right: 17px;
+}
+
+.extaButton {
+  color: white;
+  width: 265px;
+}
